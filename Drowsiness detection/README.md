@@ -1,0 +1,1 @@
+The Project consists of the CNN (Artificial Neural Network) which is train to give a result whether a person is drowsy or not it can be best work with the person facing frontal side towards the camera
