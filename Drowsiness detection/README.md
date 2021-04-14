@@ -20,8 +20,8 @@ The Project consists of the CNN (Artificial Neural Network) which is train to gi
 	`python model.py`
 
 >* Step4 (After running the above step when ever you want to run this project you only have to hit this command after step 1 & step 2)
->>* If you have python2 as primary
-	`python3 drowsiness\ detection.py`<br/>
->>* If you have python3 as primary
-	`python drowsiness\ detection.py`<br/>
+>>* If you have python2 as primary<br/>
+	`python3 drowsiness\ detection.py`
+>>* If you have python3 as primary<br/>
+	`python drowsiness\ detection.py`
 
