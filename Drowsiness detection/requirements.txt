@@ -30,7 +30,7 @@ httplib2==0.14.0
 idna==2.8
 importlib-metadata==3.10.1
 ipykernel==5.5.0
-ipython==7.21.0
+ipython==8.10.0
 ipython-genutils==0.2.0
 jdcal==1.4.1
 jedi==0.18.0
