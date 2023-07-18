@@ -48,7 +48,7 @@ Mako==1.1.0
 MarkupSafe==1.1.0
 monotonic==1.5
 netifaces==0.10.4
-numpy==1.20.1
+numpy==1.22.0
 oauth2client==4.1.2
 oauthlib==3.1.0
 olefile==0.46
