@@ -22,7 +22,7 @@ duplicity==0.8.12.0
 entrypoints==0.3
 et-xmlfile==1.0.1
 fasteners==0.14.1
-future==0.18.2
+future==0.18.3
 google-api-python-client==1.7.11
 google-auth==1.5.1
 google-auth-httplib2==0.0.3
