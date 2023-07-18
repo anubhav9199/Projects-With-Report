@@ -83,7 +83,7 @@ PyYAML==5.4
 pyzmq==22.0.3
 razorpay==1.2.0
 reportlab==3.5.34
-requests==2.22.0
+requests==2.31.0
 requests-unixsocket==0.2.0
 rsa==4.7
 SecretStorage==2.3.1
